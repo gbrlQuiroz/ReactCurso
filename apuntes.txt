@@ -1,0 +1,20 @@
+sudo su
+npm init
+sudo npm i --save webpack -g 
+sudo npm i --save webpack-dev-server -g 
+crear index.html y app.js
+
+webpack app.js bundle.js
+
+crear archivo webpack.config.js
+
+la salida la pongo en la carpeta 'doc' para subirlo a git se pueda ver
+
+crear archivo .babelrc -> transpilar ecma2015 a js
+
+crear carpeta src -> ahi se ponen index html y js
+
+crear carpeta src/components  cada componente por carpeta
+
+
+
